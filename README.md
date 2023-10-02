@@ -1,4 +1,4 @@
-# website-sederhana
+# Web Company Profile
 
 Website portofolio sederhana dengan menggunakan HTML, CSS dan Javascript
 
